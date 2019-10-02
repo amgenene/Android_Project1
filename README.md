@@ -8,4 +8,4 @@ Then Download the zipped files, and import the settings into a new Android Studi
 
 Make sure that you have the proper files installed that are in the Gradle Scripts.
 
-![](images/pic1.PNG)
+![](images/pic1.PNG)                                ![](images/pic2.PNG)
